@@ -1,0 +1,38 @@
+{
+    "929181582571503658": {
+        "setup": {
+            "webhook": {
+                "name": "KamaiReport",
+                "image": "https://cdn.discordapp.com/icons/612117634909208576/a83b1e7ee8fbec2ac008c50250d370a2.png"
+            },
+            "embed": {
+                "title": "fsdfsdf",
+                "description": "sdfsdfsdfsdfsdf",
+                "image": {
+                    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fphobiccjenny_%2Fk-a-m-a-i-t-a-c-h-i%2F&psig=AOvVaw0JM-eCLvfgcqcnAzS7ZQky&ust=1694130127523000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiWrdeUl4EDFQAAAAAdAAAAABAE"
+                }
+            },
+            "channelID": "1044742020830339082"
+        },
+        "ended": false,
+        "qntCategos": 4,
+        "categos": [
+            {
+                "name": "1",
+                "value": "1044742019899195453"
+            },
+            {
+                "name": "2",
+                "value": "1044742019899195453"
+            },
+            {
+                "name": "3",
+                "value": "1044742019899195453"
+            },
+            {
+                "name": "4",
+                "value": "1044742019899195453"
+            }
+        ]
+    }
+}
